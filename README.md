@@ -9,18 +9,17 @@ _1 TIL..._
 
 ### Categories
 
-* [APIs] (#apis)
-* [CSS] (#css)
-* [Git] (#git)
-* [HTML] (#html)
-* [Javascript] (#javascript)
-* [Mac] (#mac)
-* [Node] (#node)
-* [Rails] (#rails)
-* [Ruby] (#ruby)
-* [tmux] (#tmux)
-* [Vim] (#vim)
-* [Vue] (#vue)
+* [CSS](#css)
+* [Git](#git)
+* [HTML](#html)
+* [Javascript](#javascript)
+* [Mac](#mac)
+* [Node](#node)
+* [Rails](#rails)
+* [Ruby](#ruby)
+* [tmux](#tmux)
+* [Vim](#vim)
+* [Vue](#vue)
 
 ---
 
