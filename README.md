@@ -23,7 +23,10 @@ _1 TIL..._
 
 ---
 
+### Ruby
+
+- [Hash Syntax in Ruby](ruby/how-to-create-hashes-from-arrays.md)
+
 ### Vim
 
 - [How to Navigate vim](vim/how-to-navigate-vim.md)
-- [Hash Syntax in Ruby](vim/how-to-create-hashes-from-arrays.md)
