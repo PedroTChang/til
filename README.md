@@ -1,7 +1,7 @@
 # til: today I learned
 
 > One thing that I believe I have been lacking on my end, is a system where I can keep track of what I have been learning, so I decided to try and follow Josh Branchaud's til system. I like it. It is simple, robust, scalable, and to the point.
-Here's a link to his: https://github.com/jbranchaud/til#ack
+> Here's a link to his: https://github.com/jbranchaud/til#ack
 
 _1 TIL..._
 
@@ -9,20 +9,21 @@ _1 TIL..._
 
 ### Categories
 
-* [CSS](#css)
-* [Git](#git)
-* [HTML](#html)
-* [Javascript](#javascript)
-* [Mac](#mac)
-* [Node](#node)
-* [Rails](#rails)
-* [Ruby](#ruby)
-* [tmux](#tmux)
-* [Vim](#vim)
-* [Vue](#vue)
+- [CSS](#css)
+- [Git](#git)
+- [HTML](#html)
+- [Javascript](#javascript)
+- [Mac](#mac)
+- [Node](#node)
+- [Rails](#rails)
+- [Ruby](#ruby)
+- [tmux](#tmux)
+- [Vim](#vim)
+- [Vue](#vue)
 
 ---
 
 ### Vim
 
 - [How to Navigate vim](vim/how-to-navigate-vim.md)
+- [Hash Syntax in Ruby](vim/how-to-create-hashes-from-arrays.md)
