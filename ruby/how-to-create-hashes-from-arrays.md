@@ -1,4 +1,4 @@
-# How to Create Hashes from Arrays
+# Hash Syntax in Ruby!
 
 Just make sure to remember:
 
