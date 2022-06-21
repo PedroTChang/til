@@ -17,9 +17,9 @@ Use SQL to grab the following data from the employees database:
 2. Get the first name and last name of employees whose last names begin with “Mi”.
    - SELECT first_name, last_name FROM employees WHERE last_name LIKE 'Mi%'
    10. Bonus: Repeat exercise #2 without using the LIKE keyword.
-       select first_name, last_name from employees where last_name >='Mi' and last_name<'Mj';
-       select first_name, last_name from employees where last_name ~ '^Mi';
-       select first_name, last_name from employees where substr(last_name, 1, 2) = 'Mi';
+       - select first_name, last_name from employees where last_name >='Mi' and last_name<'Mj';
+       - select first_name, last_name from employees where last_name ~ '^Mi';
+       - select first_name, last_name from employees where substr(last_name, 1, 2) = 'Mi';
 3. Get the first name, last name, and birthday of 5 eldest employees.
    - SELECT first_name, last_name, birth_date FROM employees ORDER BY birth_date LIMIT 5;
 4. Get all info about the 5 most recent hires.
