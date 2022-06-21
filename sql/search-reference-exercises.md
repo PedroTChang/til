@@ -2,11 +2,11 @@
 
 ### Reference:
 
-SELECT \* FROM recipes
-WHERE prep_time > 100
-AND ingredients LIKE '%bread%'
-ORDER BY prep_time DESC
-LIMIT 2;
+- SELECT \* FROM recipes
+- WHERE prep_time > 100
+- AND ingredients LIKE '%bread%'
+- ORDER BY prep_time DESC
+- LIMIT 2;
 
 ### Exercise:
 
