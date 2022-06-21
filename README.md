@@ -17,6 +17,7 @@ _2 TIL..._
 - [Node](#node)
 - [Rails](#rails)
 - [Ruby](#ruby)
+- [SQL] (#sql)
 - [tmux](#tmux)
 - [Vim](#vim)
 - [Vue](#vue)
@@ -27,8 +28,10 @@ _2 TIL..._
 
 - [Hash Syntax in Ruby](ruby/how-to-create-hashes-from-arrays.md)
 
+### SQL
+
+- [SQL Search References & Exercises](sql/search-reference-exercises.md)
+
 ### Vim
 
 - [How to Navigate vim](vim/how-to-navigate-vim.md)
-
-###
