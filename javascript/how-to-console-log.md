@@ -6,7 +6,7 @@ Finally, I actually found a site that had a code snippet that would be more stra
 
 It's honestly ridiculous to me that it took so long looking in Google, "how to console.log a function", "how to call a function", "how to...", you get the gist 🤦🏻‍♂️
 
-This code snippet should run even in the terminal with node file_name.js.
+This code snippet should run even in the terminal with node <file_name.js>
 
         const numbers = [1, 2, 4, 2];
         numbers.forEach((number) => {
