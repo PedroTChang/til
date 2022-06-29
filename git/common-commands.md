@@ -10,4 +10,5 @@
 ### Nice to knows:
 
 - git clone [link to the repository]
-  - You should essentially be inside the folder that you want to
+  - You should essentially be inside the folder that you want to clone the repository to!j
+- git pull --no edit

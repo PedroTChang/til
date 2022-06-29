@@ -12,7 +12,7 @@ _4 TIL..._
 - [CSS](#css)
 - [Git](#git)
 - [HTML](#html)
-- [Javascript](#javascript)
+- [JavaScript](#javascript)
 - [Mac](#mac)
 - [Node](#node)
 - [Rails](#rails)
@@ -27,6 +27,10 @@ _4 TIL..._
 ### Git
 
 - [Common Commands](git/common-commands.md)
+
+### JavasScript
+
+- [How to console.log](javascript/how-to-console-log.md)
 
 ### Ruby
 
